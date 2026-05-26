@@ -79,8 +79,8 @@ A barra de intensidade lateral (Baixo a Alto) expõe a correlação direta entre
 Para reproduzir o projeto localmente ou em ambientes de computação em nuvem, execute as seguintes etapas:
 
 ### Clonar o Repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/ArthurAbreu00/GS---Generative-AI-For-Engineering.git
+
 
 ### Instalar as Dependências
 Certifique-se de possuir o ambiente Python 3.8 ou superior configurado e execute a instalação dos pacotes necessários:
