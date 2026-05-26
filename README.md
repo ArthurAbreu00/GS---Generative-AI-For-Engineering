@@ -40,7 +40,7 @@ distintas (ex: Massa em kg vs. Excentricidade decimal).
 Definição da Variável Alvo (Target): Criação da classe preditiva (0 ou 1) que mapeia objetos abandonados (vida útil zerada) situados na zona 
 orbital mais congestionada da Terra (entre 400 km e 1000 km de altitude).
 
-Modelos Testados e Resultados
+## Modelos Testados e Resultados
 
 Foram aplicadas e comparadas duas técnicas diferentes de Classificação estudadas ao longo do período letivo:
 
