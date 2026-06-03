@@ -94,4 +94,3 @@ python seu_codigo.py
 
 A interface do usuário foi desenvolvida utilizando a biblioteca Gradio, estabelecendo uma aplicação web para a simulação de cenários em tempo real. A plataforma permite que engenheiros aeroespaciais insiram novas métricas orbitais e obtenham o diagnóstico preditivo imediato emitido pelo modelo.
 
-## Link de Acesso: https://cc8a6de59562c69a57.gradio.live/
